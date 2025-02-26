@@ -1,6 +1,11 @@
 # ninjareflow
 SMT Reflow oven with the Ninja 8-in-1
 
+As I just got recently laid of by my employer I am more than welcome to accept donation for this redesign project.
+So consider make a Paypal donation to richard.klingler@gmail.com
+
+
+
 ![alt text](images/ninja_reflow.jpg)
 
 Finally the Ninja 8-in-1 oven was at an afforable price so I could order it and take it apart.
