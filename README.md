@@ -16,5 +16,5 @@ After a close inspection the initial idea of reusing the mainboard became obsole
 
 So the final design will consist of a new power board and a front panel board with a TFT display.
 
-Also the heating tube wiring is odd in the original design. The top three tubes are individually controlled by BT308X triacs (TR3 - TR5). The bottomn three tubes are wired together and switched on/off by relay K1.
+Also the heating tube wiring is odd in the original design. The top three tubes are individually controlled by BT308X triacs (TR3 - TR5). The bottom three tubes are wired together and switched on/off by relay K1.
 
